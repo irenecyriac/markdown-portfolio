@@ -1,5 +1,2 @@
->Fav food
->piiza
->burger
-
->Fav place
+* Fav food
+* Fav place
